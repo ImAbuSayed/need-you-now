@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/need-you-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Need You Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/need-you-now/) |
+| **Get License** | [Get License For Need You Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/need-you-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9e790329e46f93f1e654866094ee935c5098d890f4ae0484404b1570ce6aa7e2` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

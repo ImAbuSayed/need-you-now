@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Need You Now
+
+This log tracks the cryptographic history and versioning for the song **Need You Now** (need-you-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T05:37:22.465338 | `v1` | `9e790329e46f93f1e654866094ee935c5098d890f4ae0484404b1570ce6aa7e2` | `2121cd965b338b1acf39400f56a25db55a43fca417c2ce6d802438944ecdc692` | `2026-05-22_need-you-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
