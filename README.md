@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/need-you-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Need You Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/need-you-now/) |
+| **Get License** | [Obtain a Music License for Need You Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/need-you-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat rising up in the dark
+> Got a wild kind of fire burning deep in my heart
+> We're a long way from home, but the feeling is right
+> I just need you now, yeah, I need you tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
